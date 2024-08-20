@@ -1,1 +1,4 @@
 This is a sample of an instructional text which could be added to my document. Edit made here as instructed to the server.
+
+--------------------------
+Changes made here.
